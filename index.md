@@ -25,7 +25,7 @@ Technological changes in translation industry are often driven by current market
 
 ### Pageview statistics on ClustMaps
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=qRE3xmn_y5O0b4PVB73CXrVlhMy_tb2mxTHomSZe08g">
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=qRE3xmn_y5O0b4PVB73CXrVlhMy_tb2mxTHomSZe08g&cl=ffffff&w=a">
 </script>
 
 #### Webpage in other languages
