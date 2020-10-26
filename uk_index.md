@@ -4,12 +4,10 @@ title: Ukrainian
 nav_order: 21
 ---
 
-## Відділення перекладу, комунікації та технології
+## ![Image](assets/img/A4TCT_200x200.png) Відділення перекладу, комунікації та технології
 ### Інститут письмового та усного перекладу, Гайдельберзький університет
 
 [Home](index.md) | [Team](people.md) | [Research](research.md) | [Collaboration](collaboration.md) | [Techologies](techlabs.md) | [![Image](en_l_flag.png)](index.html) [![Image](de_l_flag.png)](de_index.html)
-
-![Image](assets/img/A4TCT_200x200.png)
 
 The Department of Translation, Communication and Technology has been founded with an aim to develop understanding of the technological impact on translation process.
 
