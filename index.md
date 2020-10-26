@@ -11,7 +11,9 @@ permalink: /
 
 [Home](index.md) | [Team](people.md) | [Research](research.md) | [Collaboration](collaboration.md) | [Techologies](techlabs.md) | [![Image](de_l_flag.png)](de_index.html) [![Image](uk_l_flag.png)](uk_index.html)
 
-![Image](assets/img/A4TCT_200x200.png) | The Department of Translation, Communication and Technology has been founded with an aim to develop understanding of the technological impact on translation process.
+![Image](assets/img/A4TCT_200x200.png)
+
+The Department of Translation, Communication and Technology has been founded with an aim to develop understanding of the technological impact on translation process.
 
 Our projects focus on the advancement of research in modern translation technologies, on understanding the impact of the current Artificial Intelligence (AI) and Natural Language Processing (NLP) approaches on collaborative translation. We develop methods for systematically evaluating and improving the efficiency of different technological components and their synergies in collaborative translation workflows, creating a vision and new technologies for the next generation of computer-assisted translation systems. With support from Heidelberg University's Research Councils FoF3 grant for our project "Collection, recording and processing linguistic and multimedia data for empirical analyses" we are creating a corpus infrastructure in Digital Humanities, which includes electronic corpora, linguistic and translation resources, conference interpreting transcripts, eye tracking data for computer-assisted translation and interpreting.
 
