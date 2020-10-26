@@ -7,7 +7,9 @@ nav_order: 10
 ## Abteilung für Translation, Kommunikation und Technologie
 ### Institut für Übersetzen und Dolmetschen, Universität Heidelberg
 
-![Image](assets/img/A4TCT_200x90.png) | [Home](index.md) | [Team](people.md) | [Research](research.md) | [Collaboration](collaboration.md) | [Techologies](techlabs.md) | [![Image](en_l_flag.png)](index.html) [![Image](uk_l_flag.png)](uk_index.html)
+[Home](index.md) | [Team](people.md) | [Research](research.md) | [Collaboration](collaboration.md) | [Techologies](techlabs.md) | [![Image](en_l_flag.png)](index.html) [![Image](uk_l_flag.png)](uk_index.html)
+
+![Image](assets/img/A4TCT_200x90.png) |
 
 The Department of Translation, Communication and Technology has been founded with an aim to develop understanding of the technological impact on translation process.
 
