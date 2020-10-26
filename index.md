@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: Home
+nav_order: 1
+description: "Homepage"
+permalink: /
+---
 
-You can use the [editor on GitHub](https://github.com/bogdanbabych/tkt_iued_uni-heidelberg_de/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Department of Translation, Communication and Technology
+### Institute for Translation and Interpreting, Heidelberg University
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Home](index.md) | [Team](people.md) | [Research](research.md) | [Collaboration](collaboration.md) | [Techologies](techlabs.md) | [![Image](de_l_flag.png)](de_index.html) [![Image](uk_l_flag.png)](uk_index.html)
 
-### Markdown
+The Department of Translation, Communication and Technology has been founded in 2020 with an aim to develop understanding of the technological impact on translation process.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Image](assets/img/A4TCT-logo03-2020-10-23--15.20.23.png)
+![Image](/assets/img/A4TCT-logo02-22.12.50.png)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+#### Webpage in other languages
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bogdanbabych/tkt_iued_uni-heidelberg_de/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Image](en_l_flag.png) en [![Image](de_l_flag.png)](de_index.html) [de](de_index.md) [![Image](uk_l_flag.png)](uk_index.html) [uk](uk_index.md)
