@@ -21,6 +21,11 @@ Our teaching addresses industry's demand for a new generation of translation and
 
 Technological changes in translation industry are often driven by current market demands; however, this may result in ad-hoc quick fixes and technical shortcuts, which although may improve productivity in the short term, are hard to manage and develop further. Our task is to build a systematic theoretically-grounded approach to creating, using and evaluating translation technologies, creating coherent scientific basis for shaping these technological changes for the future.
 
+### Pageview statistics on ClustMaps
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=qRE3xmn_y5O0b4PVB73CXrVlhMy_tb2mxTHomSZe08g">
+</script>
+
 #### Webpage in other languages
 
 [![Image](en_l_flag.png)](index.html) [en](index.md) ![Image](de_l_flag.png) de [![Image](uk_l_flag.png)](uk_index.html) [uk](uk_index.md)
