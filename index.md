@@ -6,10 +6,12 @@ description: "Homepage"
 permalink: /
 ---
 
-## ![Image](assets/img/A4TCT_200x90.png) Department of Translation, Communication and Technology 
+## Department of Translation, Communication and Technology
 ### Institute for Translation and Interpreting, Heidelberg University
 
 [Home](index.md) | [Team](people.md) | [Research](research.md) | [Collaboration](collaboration.md) | [Techologies](techlabs.md) | [![Image](de_l_flag.png)](de_index.html) [![Image](uk_l_flag.png)](uk_index.html)
+
+![Image](assets/img/A4TCT_200x90.png)
 
 The Department of Translation, Communication and Technology has been founded with an aim to develop understanding of the technological impact on translation process.
 
