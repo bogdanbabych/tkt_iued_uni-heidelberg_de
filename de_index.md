@@ -4,8 +4,8 @@ title: Deutsch
 nav_order: 10
 ---
 
-## ![Image](assets/img/A4TCT_200x200.png) Abteilung für Translation, Kommunikation und Technologie
-### Institut für Übersetzen und Dolmetschen, Universität Heidelberg
+## Abteilung für Translation, Kommunikation und Technologie
+### ![Image](assets/img/A4TCT_200x90.png) | Institut für Übersetzen und Dolmetschen, Universität Heidelberg
 
 [Home](index.md) | [Team](people.md) | [Research](research.md) | [Collaboration](collaboration.md) | [Techologies](techlabs.md) | [![Image](en_l_flag.png)](index.html) [![Image](uk_l_flag.png)](uk_index.html)
 
