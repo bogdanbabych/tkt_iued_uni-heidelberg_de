@@ -14,3 +14,6 @@ interenships and consultancy projects.
 
 ' term papers, BA & MA Theses,
 - Measuring cross-linguistic similarity of translation corpora
+
+
+Our research projects include

@@ -11,8 +11,6 @@ nav_order: 3
 
 ### Current research projects
 
-Our research projects include
-
 #### Linguistics of Machine Translation and translation technologies
 
 - MT of argumentative text: translating resources for non-linear discourse organisation structures
