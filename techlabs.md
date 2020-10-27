@@ -11,7 +11,7 @@ nav_order: 5
 
 ### Development of translation technologies and applications
 
-#### Experiments and tools in developed for research, teaching, academic and industrial collaboration
+#### Experiments and tools developed for our research projects, teaching, academic and industrial collaboration
 
 1. [**colloc4nlg**](http://corpus.leeds.ac.uk/corpuslabs/lab201810cnlg/colloc4nlg.html) Experiments on using collocations for Natural Language Generation: [colloc4nlg](https://github.com/bogdanbabych/colloc4nlg); [web](http://corpus.leeds.ac.uk/corpuslabs/lab201810cnlg/colloc4nlg.html); [code](http://corpus.leeds.ac.uk/corpuslabs/lab201810cnlg/?C=M;O=A)
 2. [**smallSMT**](http://corpus.leeds.ac.uk/lingenio/) A prototype SMT system for [Lingenio's](https://lingenio.de/en/) [FlexNeuroTrans](https://lingenio.de/en/research/projects/FlexNeuroTrans/) project: [web interface](http://corpus.leeds.ac.uk/lingenio/) [web file interface](http://corpus.leeds.ac.uk/lingenio/indexfile.html)
