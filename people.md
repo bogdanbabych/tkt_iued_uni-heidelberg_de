@@ -11,4 +11,16 @@ nav_order: 2
 
 ### Our team
 
-Under construction.
+The group brings together members of staff at the [Institute for Translation and Interpreting](https://www.uni-heidelberg.de/fakultaeten/neuphil/iask/sued/index.html) with an interest in translation technologies:
+
+- [Bogdan Babych](https://bogdanbabych.github.io/)
+- [Laura Giacomini](https://www.uni-heidelberg.de/fakultaeten/neuphil/iask/sued/seminar/abteilungen/italienisch/profil_giacomini.html)
+- [Nicole Keller](https://www.uni-heidelberg.de/fakultaeten/neuphil/iask/sued/seminar/abteilungen/englisch/keller.html)
+-	[Maurice Mayer](https://www.uni-heidelberg.de/fakultaeten/neuphil/iask/sued/seminar/abteilungen/italienisch/profil_mayer.html)
+
+### Staff in other departments and institutions collaborating with the group
+
+- [Vahram Atayan](https://www.uni-heidelberg.de/fakultaeten/neuphil/iask/sued/seminar/abteilungen/franzoesisch/frz_leitung.html) (The Department of French and The Department of Italian)
+- [Kurt Eberle](https://www.cl.uni-heidelberg.de/~eberle/) (Lingenio GmbH and Institute for Computational Linguistics)
+- [Kerstin Kunz](https://www.uni-heidelberg.de/fakultaeten/neuphil/iask/sued/seminar/abteilungen/englisch/abteilungsleitung_en.html) (The Department of English)
+- [Michael Prien](https://www.uni-heidelberg.de/fakultaeten/neuphil/iask/sued/seminar/abteilungen/englisch/prien.html) (The Department of English)
